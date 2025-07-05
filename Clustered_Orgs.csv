@@ -1,0 +1,52 @@
+org,AI Policy,languages,topics,final_cluster
+debian,Allowed,"['C++', 'Python', 'C', 'Ruby', 'Scheme']","['debian', 'grep', 'linux', 'open-source', 'search']",0
+strapi,Not Mention,"['JavaScript', 'TypeScript', 'SCSS', 'HTML', 'CSS']","['strapi', 'starter', 'template', 'nodejs', 'javascript']",2
+kubernetes,Allowed,"['Go', 'HTML', 'Shell', 'HCL', 'Python']","['k8s-staging', 'kubernetes', 'k8s-sig-cloud-provider', 'go', 'cncf']",1
+InfoSys,Allowed,"['Java', 'TypeScript', 'C#', 'Python', 'Dart']","['hacktoberfest', 'angular5', 'angular-cli', 'seed', 'best-practices']",1
+zed-industries,Not Mention,"['TypeScript', 'Rust', 'C++', 'C', 'JavaScript']","['text-editor', 'zed', 'gpui', 'rust-lang']",1
+pytorch,Not Mention,"['HTML', 'Python', 'C++', 'Jupyter Notebook', 'C']","['pytorch', 'machine-learning', 'deep-learning', 'python', 'neural-network']",0
+NationalSecurityAgency,Not Mention,"['Java', 'C', 'Groovy', 'C++', 'Python']","['hacktoberfest', 'qgis', 'accumulo', 'plugin', 'mgrs']",1
+spring-projects,Not Mention,"['Java', 'C#', 'Kotlin', 'JavaScript', 'HTML']","['spring', 'java', 'framework', 'spring-data', 'ddd']",2
+python,Have Guideline,"['Python', 'C', 'reStructuredText', 'HTML', 'C++']","['python', 'translation', 'psf', 'types', 'typing']",2
+papers-we-love,Not Mention,"['JavaScript', 'CSS', 'Jupyter Notebook', 'HTML', 'SCSS']","['computer-science', 'meetup', 'read-papers', 'papers', 'programming']",2
+localstack,Not Mention,"['Python', 'Go', 'Java', 'C', 'JavaScript']","['localstack', 'aws', 'python', 'cloud', 'serverless']",1
+laravel,Not Mention,"['PHP', 'Blade', 'TypeScript', 'Vue', 'JavaScript']","['laravel', 'php', 'framework', 'auth', 'monitoring']",2
+twitter,Not Mention,"['JavaScript', 'Scala', 'Java', 'Python', 'C']","['twitter', 'finagle', 'java', 'scala', 'ios']",1
+electron,Not Mention,"['C++', 'TypeScript', 'Python', 'JavaScript', 'Rust']","['electron', 'javascript', 'hacktoberfest', 'chrome', 'c-plus-plus']",1
+home-assistant,Not Mention,"['Python', 'TypeScript', 'Swift', 'Makefile', 'Kotlin']","['hacktoberfest', 'home-assistant', 'home-automation', 'iot', 'hass']",1
+tensorflow,Not Mention,"['Jupyter Notebook', 'Python', 'C++', 'TypeScript', 'MLIR']","['tensorflow', 'machine-learning', 'deep-learning', 'python', 'neural-network']",0
+tauri-apps,Not Mention,"['Rust', 'TypeScript', 'MDX', 'JavaScript', 'C']","['tauri-plugin', 'tauri', 'rust', 'gui', 'hacktoberfest']",1
+supabase,Not Mention,"['C', 'TypeScript', 'MDX', 'Python', 'JavaScript']","['postgres', 'postgresql', 'supabase', 'database', 'auth']",1
+storybookjs,Allowed,"['TypeScript', 'JavaScript', 'MDX', 'CSS', 'Vue']","['storybook', 'react', 'testing', 'react-native', 'addon']",2
+codecrafters-io,Not Mention,"['C++', 'TypeScript', 'Go', 'JavaScript', 'Handlebars']","['awesome-list', 'sqlite', 'database', 'programming', 'tutorials']",1
+vuejs,Not Mention,"['JavaScript', 'TypeScript', 'HTML', 'Vue', 'CSS']","['vue', 'javascript', 'vuex', 'vue-router', 'eslint']",2
+rails,Not Mention,"['Ruby', 'HTML', 'JavaScript', 'CSS', 'Rust']","['rails', 'mvc', 'html', 'activerecord', 'activejob']",2
+Gentoo,Not Allowed,"['C', 'Shell', 'Assembly', 'Python', 'Makefile']","['hacktoberfest', 'ebuild-repository', 'gentoo', 'overlay', 'portage']",0
+ant-design,Allowed,"['HTML', 'TypeScript', 'JavaScript', 'CSS', 'Less']","['ant-design', 'react', 'antd', 'typescript', 'javascript']",2
+elementary,Not Allowed,"['Vala', 'TypeScript', 'Meson', 'SCSS', 'PHP']","['hacktoberfest', 'meson', 'vala', 'gtk', 'gtk3']",1
+facebook,Not Mention,"['C', 'C++', 'Java', 'JavaScript', 'Python']","['react', 'javascript', 'python', 'react-native', 'java']",1
+coder,Not Mention,"['C', 'Nix', 'TypeScript', 'Go', 'Ruby']","['coder', 'vscode', 'go', 'golang', 'ide']",0
+vercel,Not Mention,"['JavaScript', 'TypeScript', 'Rust', 'MDX', 'CSS']","['vercel', 'nextjs', 'react', 'cli', 'async']",1
+langchain-ai,Not Mention,"['HTML', 'Jupyter Notebook', 'Python', 'TypeScript', 'Rich Text Format']","['langgraph', 'langgraph-template', 'langchain', 'langchain-python', 'llm']",0
+Servo,Not Allowed,"['HTML', 'C', 'C++', 'Rust', 'JavaScript']","['servo', 'rust', 'browser', 'webengine', 'web']",2
+FuelLabs,Not Mention,"['Rust', 'TypeScript', 'Sway', 'JavaScript', 'Nix']","['fuel', 'ethereum', 'sway', 'blockchain', 'wallet']",1
+denoland,Not Mention,"['HTML', 'TypeScript', 'C++', 'C', 'Python']","['deno', 'typescript', 'rust', 'fresh', 'javascript']",1
+airbnb,Allowed,"['JavaScript', 'Java', 'HTML', 'Python', 'Scala']","['javascript', 'naming-conventions', 'style-guide', 'styleguide', 'android']",1
+openai,Not Mention,"['Jupyter Notebook', 'Go', 'C', 'C++', 'Python']","['paper', 'machine-learning', 'reinforcement-learning', 'evolutionary-strategy', 'continuous-control']",0
+angular,Not Mention,"['JavaScript', 'TypeScript', 'HTML', 'CSS', 'SCSS']","['angular', 'javascript', 'angularjs-material', 'material-design', 'angularjs']",2
+nodejs,Not Mention,"['JavaScript', 'C++', 'Python', 'C', 'HTML']","['nodejs', 'node', 'iojs', 'javascript', 'mit']",1
+rust-lang,Have Guideline,"['Rust', 'C++', 'HTML', 'C', 'Markdown']","['rust', 'hacktoberfest', 'compiler', 'rust-infra', 'cargo']",0
+freeCodeCamp,Not Mention,"['JavaScript', 'CSS', 'TypeScript', 'HTML', 'Ruby']","['opensourceforgood', 'freecodecamp', 'nodejs', 'hacktoberfest', 'nonprofits']",2
+atom,Not Mention,"['JavaScript', 'CoffeeScript', 'Less', 'C++', 'CSS']","['atom', 'coffeescript', 'snippets', 'tree-sitter', 'editor']",2
+ansible,Not Mention,"['Python', 'HTML', 'PowerShell', 'JavaScript', 'Shell']","['docker', 'docker-image', 'docker-container', 'ansible-test', 'ansible']",2
+huggingface,Allowed,"['Jupyter Notebook', 'Python', 'MDX', 'C++', 'TypeScript']","['nlp', 'machine-learning', 'pytorch', 'deep-learning', 'transformers']",0
+Gnome,Hybrid,"['C', 'Vala', 'Python', 'C++', 'Scheme']",[],0
+github,Allowed,"['Ruby', 'C', 'Vim Script', 'Perl', 'C++']","['ruby', 'git', 'hubot-script', 'rubygem', 'jekyll']",0
+nvidia,Allowed,"[""'C"", 'C++', 'Python', 'Jupyter Notebook', ""Assembly'""]","['deep-learning', 'cuda', 'gpu', 'nvidia', 'pytorch']",0
+JetBrains,Allowed,"['JetBrains MPS', 'Java', 'Kotlin', 'Python', 'Scala']","['jetbrains', 'resharper', 'resharper-plugin', 'intellij', 'kotlin']",1
+elastic,Not Mention,"['TypeScript', 'Java', 'C#', 'JavaScript', 'Go']","['elasticsearch', 'client', 'search', 'java', 'kibana']",1
+grafana,Not Mention,"['Go', 'TypeScript', 'Ruby', 'Jsonnet', 'JavaScript']","['grafana', 'monitoring', 'load-testing', 'prometheus', 'performance-testing']",1
+facebookresearch,Not Mention,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Cuda']","['deep-learning', 'pytorch', 'cpp', 'python', 'artificial-intelligence']",0
+mozilla,Not Mention,"['Python', 'HTML', 'JavaScript', 'PHP', 'CSS']","['unmaintained', 'inactive', 'abandoned', 'python', 'django']",2
+apache,Have Guideline,"['Java', 'HTML', 'C#', 'C', 'C++']","['java', 'build-management', 'maven', 'network-server', 'network-client']",0
+microsoft,Have Guideline,"['C#', 'TypeScript', 'C++', 'C', 'PHP']","['sdk', 'cpp', 'microsoft', 'application-insights', 'azure']",1
